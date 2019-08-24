@@ -3,7 +3,7 @@ import pickle
 from collections import deque
 import sys
 if sys.platform == "ios":
-    import dialog
+    import dialogs
 else:
     raise EnvironmentError("This script is written specifically for Pythonista on iOS")
 
@@ -25,11 +25,10 @@ async def main():
     Print += "Other Jobs:" + "\n"
     for item in queue:
         Print += (str(item)) + "\n"
-    dialog.text_dialog("Results:", Print)
+    dialogs.text_dialog("Results:", Print)
 
 
 if __name__ == '__main__':
     loop = asyncio.get_event_loop()
-    task = asyncio.ensure_future(main())
-    loop.run_until_complete(task)
+    loop.run_until_complete(main())
     loop.close()
