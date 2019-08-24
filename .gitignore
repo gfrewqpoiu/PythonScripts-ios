@@ -1,0 +1,248 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen### VirtualEnv template
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+### macOS template
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+Würde .gitignore löschen
+Würde .idea/ löschen
+Würde .venv/.Python löschen
+Würde .venv/.project löschen
+Würde .venv/bin/ löschen
+Würde .venv/include/ löschen
+Würde .venv/lib/python3.7/LICENSE.txt löschen
+Würde .venv/lib/python3.7/__future__.py löschen
+Würde .venv/lib/python3.7/__pycache__/ löschen
+Würde .venv/lib/python3.7/_bootlocale.py löschen
+Würde .venv/lib/python3.7/_collections_abc.py löschen
+Würde .venv/lib/python3.7/_dummy_thread.py löschen
+Würde .venv/lib/python3.7/_weakrefset.py löschen
+Würde .venv/lib/python3.7/abc.py löschen
+Würde .venv/lib/python3.7/base64.py löschen
+Würde .venv/lib/python3.7/bisect.py löschen
+Würde .venv/lib/python3.7/codecs.py löschen
+Würde .venv/lib/python3.7/collections löschen
+Würde .venv/lib/python3.7/config-3.7m-darwin löschen
+Würde .venv/lib/python3.7/copy.py löschen
+Würde .venv/lib/python3.7/copyreg.py löschen
+Würde .venv/lib/python3.7/distutils/ löschen
+Würde .venv/lib/python3.7/encodings löschen
+Würde .venv/lib/python3.7/enum.py löschen
+Würde .venv/lib/python3.7/fnmatch.py löschen
+Würde .venv/lib/python3.7/functools.py löschen
+Würde .venv/lib/python3.7/genericpath.py löschen
+Würde .venv/lib/python3.7/hashlib.py löschen
+Würde .venv/lib/python3.7/heapq.py löschen
+Würde .venv/lib/python3.7/hmac.py löschen
+Würde .venv/lib/python3.7/imp.py löschen
+Würde .venv/lib/python3.7/importlib löschen
+Würde .venv/lib/python3.7/io.py löschen
+Würde .venv/lib/python3.7/keyword.py löschen
+Würde .venv/lib/python3.7/lib-dynload löschen
+Würde .venv/lib/python3.7/linecache.py löschen
+Würde .venv/lib/python3.7/locale.py löschen
+Würde .venv/lib/python3.7/no-global-site-packages.txt löschen
+Würde .venv/lib/python3.7/ntpath.py löschen
+Würde .venv/lib/python3.7/operator.py löschen
+Würde .venv/lib/python3.7/orig-prefix.txt löschen
+Würde .venv/lib/python3.7/os.py löschen
+Würde .venv/lib/python3.7/posixpath.py löschen
+Würde .venv/lib/python3.7/random.py löschen
+Würde .venv/lib/python3.7/re.py löschen
+Würde .venv/lib/python3.7/readline.so löschen
+Würde .venv/lib/python3.7/reprlib.py löschen
+Würde .venv/lib/python3.7/rlcompleter.py löschen
+Würde .venv/lib/python3.7/shutil.py löschen
+Würde .venv/lib/python3.7/site-packages/PIL/ löschen
+Würde .venv/lib/python3.7/site-packages/Pillow-6.1.0.dist-info/ löschen
+Würde .venv/lib/python3.7/site-packages/__pycache__/ löschen
+Würde .venv/lib/python3.7/site-packages/appex-stubs/ löschen
+Würde .venv/lib/python3.7/site-packages/appex/ löschen
+Würde .venv/lib/python3.7/site-packages/clipboard-stubs/ löschen
+Würde .venv/lib/python3.7/site-packages/clipboard/ löschen
+Würde .venv/lib/python3.7/site-packages/console-stubs/ löschen
+Würde .venv/lib/python3.7/site-packages/console/ löschen
+Würde .venv/lib/python3.7/site-packages/dialog/ löschen
+Würde .venv/lib/python3.7/site-packages/easy_install.py löschen
+Würde .venv/lib/python3.7/site-packages/mypy-0.720.dist-info/ löschen
+Würde .venv/lib/python3.7/site-packages/mypy/ löschen
+Würde .venv/lib/python3.7/site-packages/mypy_extensions-0.4.1.dist-info/ löschen
+Würde .venv/lib/python3.7/site-packages/mypy_extensions.py löschen
+Würde .venv/lib/python3.7/site-packages/mypyc_00e854439a9278632958.cpython-37m-darwin.so löschen
+Würde .venv/lib/python3.7/site-packages/pip-19.2.2.dist-info/ löschen
+Würde .venv/lib/python3.7/site-packages/pip/ löschen
+Würde .venv/lib/python3.7/site-packages/pkg_resources/ löschen
+Würde .venv/lib/python3.7/site-packages/pythonista_stubs-0.0.3.dist-info/ löschen
+Würde .venv/lib/python3.7/site-packages/reminders-stubs/ löschen
+Würde .venv/lib/python3.7/site-packages/reminders/ löschen
+Würde .venv/lib/python3.7/site-packages/setuptools-41.2.0.dist-info/ löschen
+Würde .venv/lib/python3.7/site-packages/setuptools/ löschen
+Würde .venv/lib/python3.7/site-packages/sound-stubs/ löschen
+Würde .venv/lib/python3.7/site-packages/speech-stubs/ löschen
+Würde .venv/lib/python3.7/site-packages/typed_ast-1.4.0.dist-info/ löschen
+Würde .venv/lib/python3.7/site-packages/typed_ast/ löschen
+Würde .venv/lib/python3.7/site-packages/typing_extensions-3.7.4.dist-info/ löschen
+Würde .venv/lib/python3.7/site-packages/typing_extensions.py löschen
+Würde .venv/lib/python3.7/site-packages/wheel-0.33.6.dist-info/ löschen
+Würde .venv/lib/python3.7/site-packages/wheel/ löschen
+Würde .venv/lib/python3.7/site.py löschen
+Würde .venv/lib/python3.7/sre_compile.py löschen
+Würde .venv/lib/python3.7/sre_constants.py löschen
+Würde .venv/lib/python3.7/sre_parse.py löschen
+Würde .venv/lib/python3.7/stat.py löschen
+Würde .venv/lib/python3.7/struct.py löschen
+Würde .venv/lib/python3.7/tarfile.py löschen
+Würde .venv/lib/python3.7/tempfile.py löschen
+Würde .venv/lib/python3.7/token.py löschen
+Würde .venv/lib/python3.7/tokenize.py löschen
+Würde .venv/lib/python3.7/types.py löschen
+Würde .venv/lib/python3.7/warnings.py löschen
+Würde .venv/lib/python3.7/weakref.py löschen
+Würde .venv/src/ löschen
+Würde Pipfile löschen
+Würde Pipfile.lock löschen
